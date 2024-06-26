@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.3",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "pnp-controls-test",
+    "libraryId": "8c769fdf-79a6-4918-9bdb-9adf47a5d33c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "pnp-controls-test",
+    "solutionShortDescription": "pnp-controls-test description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

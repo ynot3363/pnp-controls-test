@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pnp-controls-test-client-side-solution",
+    "id": "8c769fdf-79a6-4918-9bdb-9adf47a5d33c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "pnp-controls-test description"
+      },
+      "longDescription": {
+        "default": "pnp-controls-test description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "pnp-controls-test Feature",
+        "description": "The feature that activates elements of the pnp-controls-test solution.",
+        "id": "3fad811e-6ea6-4c2a-ba7d-cdf70193f386",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/pnp-controls-test.sppkg"
+  }
+}
